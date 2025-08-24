@@ -2,38 +2,92 @@
 {
 "channel":"astroSS1.my",
 "id":"astroSS1.my",
-"name":"ASTRO SUPERSPORT",
+"name":"ASTRO PREMIER LEAGUE",
 "categories":["SPORTS"],
 "url":"http://xtv.ooo:8080/Abbas345/12123563/352087",
-"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/g0g6p61731234018.png",
 "country":"MY"
 }, 
 {
 "channel":"astroSS2.my",
 "id":"astroSS2.my",
-"name":"ASTRO SUPERSPORT 2",
+"name":"ASTRO PREMIER LEAGUE 2",
 "categories":["SPORTS"],
 "url":"http://xtv.ooo:8080/Abbas345/12123563/352088",
-"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/bk9vbh1731234210.png",
 "country":"MY"
 }, 
 {
 "channel":"astroSS3.my",
 "id":"astroSS3.my",
-"name":"ASTRO SUPERSPORT 3",
+"name":"ASTRO GRANDSTAND",
 "categories":["SPORTS"],
 "url":"http://xtv.ooo:8080/Abbas345/12123563/352089",
-"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png",
 "country":"MY"
 },
 {
 "channel":"astroSS4.my",
 "id":"astroSS4.my",
-"name":"ASTRO SUPERSPORT 4",
+"name":"ASTRO FOOTBALL",
 "categories":["SPORTS"],
 "url":"http://xtv.ooo:8080/Abbas345/12123563/352090",
-"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png",
 "country":"MY"
+},
+{
+"channel":"usaNet.us",
+"id":"usaNet.us",
+"name":"USA NETWORK",
+"categories":["SPORTS"],
+"url":"http://xtv.ooo:8080/Abbas345/12123563/346622",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
+"country":"US"
+},
+{
+"channel":"teleMundo.us",
+"id":"teleMundo.us",
+"name":"TELEMUNDO",
+"categories":["SPORTS"],
+"url":"http://xtv.ooo:8080/Abbas345/12123563/351914",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/Telemundo.png",
+"country":"US"
+},
+{
+"channel":"supersportPL.za",
+"id":"supersportPL.za",
+"name":"SUPERSPORT PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"http://xtv.ooo:8080/Abbas345/12123563/238478",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/x5ja5w1659624783.png",
+"country":"ZA"
+},
+{
+"channel":"supersportLA.za",
+"id":"supersportLA.za",
+"name":"SUPERSPORT LALIGA",
+"categories":["SPORTS"],
+"url":"http://xtv.ooo:8080/Abbas345/12123563/238479",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/dv7v9w1719404547.png",
+"country":"ZA"
+},
+{
+"channel":"supersportFB.za",
+"id":"supersportFB.za",
+"name":"SUPERSPORT FOOTBALL",
+"categories":["SPORTS"],
+"url":"http://xtv.ooo:8080/Abbas345/12123563/238480",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.png",
+"country":"ZA"
+},
+{
+"channel":"supersportMax.za",
+"id":"supersportMax.za",
+"name":"SUPERSPORT MAXIMO 1",
+"categories":["SPORTS"],
+"url":"http://xtv.ooo:8080/Abbas345/12123563/238493",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/188vbk1659624662.png",
+"country":"ZA"
 },
 {
 "channel":"play1Sports.be",
