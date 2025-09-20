@@ -36,6 +36,114 @@
 "country":"MY"
 },
 {
+"channel":"hubpremS1.sg",
+"id":"hubpremS1.sg",
+"name":"HUB PREMIER 1",
+"categories":["SPORTS"],
+"url":"1032529&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS2.sg",
+"id":"hubpremS2.sg",
+"name":"HUB PREMIER 2",
+"categories":["SPORTS"],
+"url":"1032528&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS3.sg",
+"id":"hubpremS3.sg",
+"name":"HUB PREMIER 3",
+"categories":["SPORTS"],
+"url":"1032527&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS4.sg",
+"id":"hubpremS4.sg",
+"name":"HUB PREMIER 4",
+"categories":["SPORTS"],
+"url":"1032526&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png",
+"country":"SG"
+},
+{
+"channel":"hubSports1.sg",
+"id":"hubSports1.sg",
+"name":"HUB SPORTS 1",
+"categories":["SPORTS"],
+"url":"1110667&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",
+"country":"SG"
+},
+{
+"channel":"hubSports2.sg",
+"id":"hubSports2.sg",
+"name":"HUB SPORTS 2",
+"categories":["SPORTS"],
+"url":"1110666&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",
+"country":"SG"
+},
+{
+"channel":"hubSports3.sg",
+"id":"hubSports3.sg",
+"name":"HUB SPORTS 1",
+"categories":["SPORTS"],
+"url":"1110665&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",
+"country":"SG"
+},
+{
+"channel":"starS1.in",
+"id":"starS1.in",
+"name":"STARSPORTS",
+"categories":["SPORTS"],
+"url":"1104673&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/xkekt61643389138.png",
+"country":"IN"
+},
+{
+"channel":"starS2.in",
+"id":"starS2.in",
+"name":"STARSPORTS 2",
+"categories":["SPORTS"],
+"url":"1104674&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/86n1ir1643389161.png",
+"country":"IN"
+},
+{
+"channel":"starS3.in",
+"id":"starS3.in",
+"name":"STARSPORTS 3",
+"categories":["SPORTS"],
+"url":"1104675&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/vo30va1643389174.png",
+"country":"IN"
+},
+{
+"channel":"starSS1.in",
+"id":"starSS1.in",
+"name":"STARSPORTS SELECT 1",
+"categories":["SPORTS"],
+"url":"1114583&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/z7uvs71643386857.png",
+"country":"IN"
+}, 
+{
+"channel":"starSS2.in",
+"id":"starSS2.in",
+"name":"STARSPORTS SELECT 2",
+"categories":["SPORTS"],
+"url":"1114584&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/wejp5b1643386884.png",
+"country":"IN"
+},
+{
 "channel":"usaNetEast.us",
 "id":"usaNetEast.us",
 "name":"USA NETWORK EAST",
