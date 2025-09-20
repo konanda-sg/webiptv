@@ -1,0 +1,56 @@
+[
+{
+"channel":"astroSS1.my",
+"id":"astroSS1.my",
+"name":"ASTRO PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"918986&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/g0g6p61731234018.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS2.my",
+"id":"astroSS2.my",
+"name":"ASTRO PREMIER LEAGUE 2",
+"categories":["SPORTS"],
+"url":"918985&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/bk9vbh1731234210.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS3.my",
+"id":"astroSS3.my",
+"name":"ASTRO GRANDSTAND",
+"categories":["SPORTS"],
+"url":"918984&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png",
+"country":"MY"
+},
+{
+"channel":"astroSS4.my",
+"id":"astroSS4.my",
+"name":"ASTRO FOOTBALL",
+"categories":["SPORTS"],
+"url":"918983&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png",
+"country":"MY"
+},
+{
+"channel":"usaNetEast.us",
+"id":"usaNetEast.us",
+"name":"USA NETWORK EAST",
+"categories":["SPORTS"],
+"url":"188997&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
+"country":"US"
+},
+{
+"channel":"usaNetWest.us",
+"id":"usaNetWest.us",
+"name":"USA NETWORK WEST",
+"categories":["SPORTS"],
+"url":"191882&extension=ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
+"country":"US"
+}
+]
