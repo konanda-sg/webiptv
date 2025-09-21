@@ -286,13 +286,13 @@ window.addEventListener("load", function () {
 }
 
 const Gtoken = generateRandomToken();
-//console.log(url);
+console.log(url);
           
           var i18n = "https://donelfantastic.github.io/webiptv/embed/v4/?live&url=";
           var i18k = "https://donelfantastic.github.io/webiptv/embed/v5/?live&url=";
           //var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";   
           //output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + i18n + a[i].url + "'>WATCH NOW</a></button></center></td></tr>";
-          output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + i18n + a[i].url + "?token_Play=" + Gtoken + "'>WATCH NOW 1</a></button><span><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + i18k + a[i].url + "?token_Play=" + Gtoken + "'>WATCH NOW 2</a></button></span></center></td></tr>";
+          output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + i18n + a[i].url + "'>WATCH NOW 1</a></button><span><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + i18k + a[i].url + "'>WATCH NOW 2</a></button></span></center></td></tr>";
           
         }
       }
