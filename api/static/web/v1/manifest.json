@@ -1,5 +1,302 @@
 [
 {
+"channel":"skyS1.nz",
+"id":"skyS1.nz",
+"name":"SKYSPORTS",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS2.nz",
+"id":"skyS2.nz",
+"name":"SKYSPORTS 2",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS3.nz",
+"id":"skyS3.nz",
+"name":"SKYSPORTS 3",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS4.nz",
+"id":"skyS4.nz",
+"name":"SKYSPORTS 4",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/03e6b7c2-32ff-4d7d-90a1-798a35905074.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS5.nz",
+"id":"skyS5.nz",
+"name":"SKYSPORTS 5",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/f625580c-d706-491f-907b-2baad2c4117e.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS6.nz",
+"id":"skyS6.nz",
+"name":"SKYSPORTS 6",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS7.nz",
+"id":"skyS7.nz",
+"name":"SKYSPORTS 7",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS8.nz",
+"id":"skyS8.nz",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/7e851290-f8c3-4259-8ace-e45b71ed26ab.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png",
+"country":"NZ"
+},
+{
+"channel":"skyS9.nz",
+"id":"skyS9.nz",
+"name":"SKYSPORTS 9",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/45531087-726e-49cc-a815-9ccbdd8cb59d.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skySSlc.nz",
+"id":"skySSlc.nz",
+"name":"SKYSPORTS SELECT",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_news.png",
+"country":"NZ"
+},
+{
+"channel":"tntS1.uk",
+"id":"tntS1.uk",
+"name":"TNT SPORTS",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",
+"country":"UK"
+},
+{
+"channel":"tntS2.uk",
+"id":"tntS2.uk",
+"name":"TNT SPORTS 2",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",
+"country":"UK"
+},
+{
+"channel":"tntS3.uk",
+"id":"tntS3.uk",
+"name":"TNT SPORTS 3",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",
+"country":"UK"
+},
+{
+"channel":"tntS4.uk",
+"id":"tntS4.uk",
+"name":"TNT SPORTS 4",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsME.uk",
+"id":"skysp0rtsME.uk",
+"name":"SKYSPORTS MAIN EVENT",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsPL.uk",
+"id":"skysp0rtsPL.uk",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/c303e484-7208-4695-a34e-c962db644a86.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/7e2lv21502554825.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsFB.uk",
+"id":"skysp0rtsFB.uk",
+"name":"SKYSPORTS FOOTBALL",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsUNO.it",
+"id":"skysp0rtsUNO.it",
+"name":"SKYSPORTS UNO",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/ec6efe14-0b62-48d1-afa7-eca4f9770c16.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Uno.png",
+"country":"IT"
+},
+{
+"channel":"skysp0rtsCC.it",
+"id":"skysp0rtsCC.it",
+"name":"SKYSPORTS CALCIO",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/tiny/70ud6o1656963115.png",
+"country":"IT"
+},
+{
+"channel":"nowS1PL.hk",
+"id":"nowS1PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.ts",
+"logo":"https://i.imgur.com/l2dzMGa.png",
+"country":"HK"
+},
+{
+"channel":"nowS2PL.hk",
+"id":"nowS2PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 2",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/41176be7-518a-4f04-a721-7d89161cf8fc.ts",
+"logo":"https://i.imgur.com/yVCWN1c.png",
+"country":"HK"
+},
+{
+"channel":"nowS3PL.hk",
+"id":"nowS3PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 3",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/cbceee38-4772-4b22-b2bb-797ce06177ed.ts",
+"logo":"https://i.imgur.com/oxakZgk.png",
+"country":"HK"
+},
+{
+"channel":"nowS4PL.hk",
+"id":"nowS4PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 4",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.ts",
+"logo":"https://i.imgur.com/evqQoh9.png",
+"country":"HK"
+},
+{
+"channel":"nowS5PL.hk",
+"id":"nowS5PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 5",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/5655f0f0-79f8-404d-a44c-128ef2e3c74d.ts",
+"logo":"https://i.imgur.com/eAsPUx2.png",
+"country":"HK"
+},
+{
+"channel":"nowS6PL.hk",
+"id":"nowS6PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 6",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/93aa194a-e771-4070-9ee3-055230acc379.ts",
+"logo":"https://i.imgur.com/q2GQzb9.png",
+"country":"HK"
+},
+{
+"channel":"nowS4k.hk",
+"id":"nowS4k.hk",
+"name":"NOWSPORTS PREMIER LEAGUE TV",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/5153cfce-c89d-4937-901f-98bb480d35e5.ts",
+"logo":"https://i.imgur.com/D0GgEQR.png",
+"country":"HK"
+},
+{
+"channel":"nowS1.hk",
+"id":"nowS1.hk",
+"name":"NOWSPORTS",
+"categories":["SPORTS"],
+"url":"http://onlytimewilltell.xyz:2086/images/76795ef4ce7c79ee1889165bad983176.png",
+"logo":"https://i.imgur.com/3BbhTQX.png",
+"country":"HK"
+},
+{
+"channel":"nowS2.hk",
+"id":"nowS2.hk",
+"name":"NOWSPORTS 2",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/8408dc5b-6b47-420d-aea8-3663518fd9d5.ts",
+"logo":"https://i.imgur.com/wkmjtNT.png",
+"country":"HK"
+},
+{
+"channel":"nowS3.hk",
+"id":"nowS3.hk",
+"name":"NOWSPORTS 3",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/e59bdd37-d1c4-45f9-b307-50f91968fa1a.ts",
+"logo":"https://i.imgur.com/kgo9uwH.png",
+"country":"HK"
+},
+{
+"channel":"nowS4.hk",
+"id":"nowS4.hk",
+"name":"NOWSPORTS 4",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/322241c0-e471-4ec9-82d1-2fb889181131.ts",
+"logo":"https://i.imgur.com/VzQp0ek.png",
+"country":"HK"
+},
+{
+"channel":"nowS5.hk",
+"id":"nowS5.hk",
+"name":"NOWSPORTS 5",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/c116e69d-aa7a-4256-8fdc-5f76c305556e.ts",
+"logo":"https://i.imgur.com/qH25e4C.png",
+"country":"HK"
+},
+{
+"channel":"nowS6.hk",
+"id":"nowS6.hk",
+"name":"NOWSPORTS 6",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/68883709-7baf-47c8-9e3f-7f9977e63893.ts",
+"logo":"https://i.imgur.com/oK9L6ni.png",
+"country":"HK"
+},
+{
+"channel":"nowS7.hk",
+"id":"nowS7.hk",
+"name":"NOWSPORTS 7",
+"categories":["SPORTS"],
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/f36f7b89-f034-4923-b9b8-77d3764169f8.ts",
+"logo":"https://i.imgur.com/DySwf7S.png",
+"country":"HK"
+},
+{
 "channel":"astroSS1.my",
 "id":"astroSS1.my",
 "name":"ASTRO PREMIER LEAGUE",
@@ -92,7 +389,7 @@
 {
 "channel":"hubSports3.sg",
 "id":"hubSports3.sg",
-"name":"HUB SPORTS 1",
+"name":"HUB SPORTS 3",
 "categories":["SPORTS"],
 "url":"http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1110665&extension=ts",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",
@@ -148,7 +445,7 @@
 "id":"usaNetEast.us",
 "name":"USA NETWORK EAST",
 "categories":["SPORTS"],
-"url":"http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=188997&extension=ts",
+"url":"http://mains.services/live/bshorty/Zv5le07a0J/3c446837-2d88-4a34-bcb9-7a2d026848a4.ts",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
 "country":"US"
 },
