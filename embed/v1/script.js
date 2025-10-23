@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 const video = document.querySelector("#my-player");
 if (video.canPlayType("application/vnd.apple.mpegurl")) {
-  video.src = "https://donelfantastic.github.io/webiptv/web/" + sURL;
+  video.src = sURL;
 } else if (Hls.isSupported()) {
   const hls = new Hls({
     maxBufferSize: 1 * 1000,
